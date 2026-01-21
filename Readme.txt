@@ -1,0 +1,1 @@
+Images and trained models involved in the paper "A Truss-type Field Phenotyping Platform Combining BeiDou Geographic Reference for In-situ Monitoring of Oilseed Plants at Multiple Growth Stages"
